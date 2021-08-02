@@ -7,7 +7,6 @@ sections:
 - type: document
   path: google.com
   label: Link to Doc
-  match: "**/*"
 - type: heading
   label: About
 upload_dir: uploads
